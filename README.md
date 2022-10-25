@@ -32,9 +32,9 @@
    Dalton Drumm, Alexis Murillo, Jeanette Conklin, Ivy Hermosa 
 
   ## Githubs
-
+   https://github.com/Drummd
   ## Emails
-    
+    drummd@rocketmail.com
 
    
    
